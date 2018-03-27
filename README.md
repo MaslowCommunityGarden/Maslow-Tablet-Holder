@@ -2,6 +2,9 @@
 
 Brackets to attach a cheap RCA to the frame to control Maslow
 
+
+
+
 One of the best features of CNC technology is that it lets us work on other things while the machine is running. Unfortunately for me that often means using my computer which is running the machine.
 
 The solution was to attach the cheapest tablet I could find on amazon with a USB port permanently to the frame. Ground Control supports multi touch and works well on a tablet. Files can be easily sent to the machine using dropbox.
