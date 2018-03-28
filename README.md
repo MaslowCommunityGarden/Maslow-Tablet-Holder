@@ -13,6 +13,6 @@ While the particular tablet I am using is pretty disappointing (it was the cheap
 
 This download includes both the 3D cad files which can be modified to work with a different tablet, and the 2D drawing files ready to generate gcode from.
 
-If you want to modify the files, [the original OnShape document here] (https://cad.onshape.com/documents/bf636a01dadf7155bf1273ae/w/74a2ee2e4b9e5470eb24b6c0/e/f705c5614e0503ad24cc4b39) is probably the easiest way to do that.
+If you want to modify the files, [the original OnShape document here](https://cad.onshape.com/documents/bf636a01dadf7155bf1273ae/w/74a2ee2e4b9e5470eb24b6c0/e/f705c5614e0503ad24cc4b39) is probably the easiest way to do that.
 
 The tablet holder could be cut in one piece, but by having the back screw to the front it can accommodate tablets of different thicknesses and ensures a snug fit.
